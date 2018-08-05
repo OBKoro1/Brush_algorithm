@@ -14,4 +14,4 @@
 
 ### 入门级:
 
-1. [查找斐波纳契数列中第N个数](obkoro1.com);
+1. [查找斐波纳契数列中第N个数](https://github.com/OBKoro1/Brush_algorithm/blob/master/readme/%E6%9F%A5%E6%89%BE%E6%96%90%E6%B3%A2%E7%BA%B3%E5%A5%91%E6%95%B0%E5%88%97%E4%B8%AD%E7%AC%ACN%E4%B8%AA%E6%95%B0.md);
