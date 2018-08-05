@@ -24,7 +24,6 @@
 
 值得注意的是：前两个数字可以算成是起始元素，从第三个元素才开始有规则。
 
-
 ### code:
 
 1. 递归解法：
@@ -77,3 +76,5 @@
 最后一题的提交，甩的第二名看不到我的车尾灯，开心！
 
 第一回刷算法题，以后要继续坚持！
+
+### [代码地址](https://github.com/OBKoro1/Brush_algorithm/blob/master/codeSource/FibonacciSequence.html)
