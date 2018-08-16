@@ -16,4 +16,4 @@
 
 2. [判断字符回文](https://github.com/OBKoro1/Brush_algorithm/blob/9bc3c386129f03f93120265c88d4d6250bdcc416/readme/%E5%9B%9E%E6%96%87.md)
 
-3. [姓名去重](https://github.com/OBKoro1/Brush_algorithm/blob/9bc3c386129f03f93120265c88d4d6250bdcc416/readme/姓名去重.md)
+3. [姓名去重](https://github.com/OBKoro1/Brush_algorithm/blob/6ccb9eae32c1c83e805b71101281d2a9398016a4/readme/%E5%A7%93%E5%90%8D%E5%8E%BB%E9%87%8D.md)
