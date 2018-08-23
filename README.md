@@ -28,4 +28,4 @@
 
 * [姓名去重](https://github.com/OBKoro1/Brush_algorithm/blob/6ccb9eae32c1c83e805b71101281d2a9398016a4/readme/%E5%A7%93%E5%90%8D%E5%8E%BB%E9%87%8D.md)
 
-* [反转整数](https://github.com/OBKoro1/Brush_algorithm/blob/6ccb9eae32c1c83e805b71101281d2a9398016a4/readme/%E5%A7%93%E5%90%8D%E5%8E%BB%E9%87%8D.md)
+* [反转整数](https://github.com/OBKoro1/Brush_algorithm/blob/dc71d3d338b4fd40a10d0570c865a57a83bf6cbd/readme/%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0.md)
