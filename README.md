@@ -6,6 +6,10 @@
 
 [文档地址](http://obkoro1.com/web_accumulate/accumulate/)
 
+**文档长这样：**
+
+![](http://ww1.sinaimg.cn/large/005Y4rCogy1fvicymvh7nj30s30eg3z8.jpg)
+
 ### 觉得还不错的话，点一个Star ⭐️ 吧~
 
 ### 前端积累:
